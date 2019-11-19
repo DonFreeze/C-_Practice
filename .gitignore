@@ -1,0 +1,16 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Ignore .o files
+*.o
+*.exe
+*.cbp
+*.layout
+
+# Unignore all dirs
+!*/
+
+
