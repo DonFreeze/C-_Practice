@@ -9,6 +9,7 @@
 *.exe
 *.cbp
 *.layout
+*.depend
 
 # Unignore all dirs
 !*/
